@@ -1,4 +1,4 @@
-import { BrowserRouter, Route, Routes } from "react-router-dom";
+import { HashRouter, Route, Routes } from "react-router-dom";
 import {
   Home,
   Error,
@@ -12,7 +12,7 @@ import BaseLayout from "../layouts/BaseLayout";
 
 const AppRouter = () => {
   return (
-    <BrowserRouter>
+    <HashRouter>
       <Routes>
         <Route path="/" element={<BaseLayout />}>
           <Route path="/" element={<Home />} />
@@ -25,7 +25,7 @@ const AppRouter = () => {
           <Route path="*" element={<Error />} />
         </Route>
       </Routes>
-    </BrowserRouter>
+    </HashRouter>
   );
 };
 
