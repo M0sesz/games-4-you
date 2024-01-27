@@ -1,4 +1,4 @@
-import { HashRouter, Route, Routes } from "react-router-dom";
+import { BrowserRouter, Route, Routes } from "react-router-dom";
 import {
   Home,
   Error,
@@ -12,7 +12,7 @@ import BaseLayout from "../layouts/BaseLayout";
 
 const AppRouter = () => {
   return (
-    <HashRouter>
+    <BrowserRouter basename="/games-4-you">
       <Routes>
         <Route path="/" element={<BaseLayout />}>
           <Route path="/" element={<Home />} />
@@ -25,7 +25,7 @@ const AppRouter = () => {
           <Route path="*" element={<Error />} />
         </Route>
       </Routes>
-    </HashRouter>
+    </BrowserRouter>
   );
 };
 
