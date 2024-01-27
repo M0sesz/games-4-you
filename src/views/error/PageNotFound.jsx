@@ -1,7 +1,20 @@
+import { Link } from "react-router-dom";
 import styled from "styled-components";
 
 const PageNotFound = () => {
-  return <PageNotFoundWrapper></PageNotFoundWrapper>;
+  return (
+    <PageNotFoundWrapper className="section">
+      <div className="container text-center">
+        <p className="value-404">404</p>
+        <p className="not-found=text text-uppercase text-white">
+          page not found
+        </p>
+        <Link className="section-btn" to="/">
+          go to homepage
+        </Link>
+      </div>
+    </PageNotFoundWrapper>
+  );
 };
 
 export default PageNotFound;
