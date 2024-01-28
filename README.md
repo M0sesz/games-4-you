@@ -8,7 +8,7 @@ Games-4-You is a website that provides access to a wide range of games for diffe
 
 ## Features.
 
-- **Browse games:**View a list of available games and learn about their descriptions, developers, platforms and publishers.
+- **Browse games:** View a list of available games and learn about their descriptions, developers, platforms and publishers.
 - **Details:** Get detailed information about individual games, including descriptions, platforms and more.
 - **View Screenshots:** View screenshots from games to get a better idea of their graphics and gameplay.
 
