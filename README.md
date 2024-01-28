@@ -1,8 +1,44 @@
-# React + Vite
+# Games-4-You
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Цей веб-сайт розроблено для шанувальників ігор, щоб вони могли знайти нові ігри, отримати інформацію про популярні платформи, розробників та видавців, а також дізнатися про останні новини зі світу ігор.
 
-Currently, two official plugins are available:
+## Опис
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Games-4-You - це веб-сайт, який надає доступ до широкого асортименту ігор для різних платформ. Ви зможете переглядати описи ігор, переглядати їх зображення та отримувати іншу цікаву інформацію.
+
+## Функціональність
+
+- **Перегляд ігор:** Переглядайте список доступних ігор та дізнавайтеся про їх опис, розробників, платформи та видавців.
+- **Детальна інформація:** Отримуйте детальну інформацію про окремі ігри, включаючи опис, платформи та інше.
+- **Перегляд знімків екрану:** Дивіться знімки екрану з ігор, щоб отримати краще уявлення про їх графіку та геймплей.
+
+## Використані технології
+
+- React.js: для розробки фронтенду
+- Redux Toolkit: для управління станом даних
+- Styled Components: для стилізації компонентів
+- React Router: для навігації по сторінкам
+
+## Інструкції по запуску
+
+1. Клонуйте репозиторій: `git clone https://github.com/M0sesz/games-4-you.git`
+2. Перейдіть до папки проекту: `cd games-4-you`
+3. Встановіть залежності: `npm install`
+4. Запустіть проект: `npm start`
+
+## Демо
+
+Демо сайту доступне за посиланням: [Games-4-You](https://m0sesz.github.io/games-4-you/)
+
+## Внесення вкладу
+
+Якщо ви хочете внести вклад у розвиток цього проекту, будь ласка, створіть новий Pull Request або відкрийте нове питання (Issue).
+
+## Автор
+
+[Anton Honcharuk](https://m0sesz.github.io/Resume/)
+
+## Ліцензія
+
+Цей проект ліцензується під [MIT License](LICENSE).
+
