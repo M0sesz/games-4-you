@@ -1,44 +1,39 @@
-# Games-4-You
+#Games-4-You
 
-Цей веб-сайт розроблено для шанувальників ігор, щоб вони могли знайти нові ігри, отримати інформацію про популярні платформи, розробників та видавців, а також дізнатися про останні новини зі світу ігор.
+This website is designed for gaming fans to find new games, get information about popular platforms, developers and publishers, and learn about the latest news from the world of gaming.
 
-## Опис
+## Description
 
-Games-4-You - це веб-сайт, який надає доступ до широкого асортименту ігор для різних платформ. Ви зможете переглядати описи ігор, переглядати їх зображення та отримувати іншу цікаву інформацію.
+Games-4-You is a website that provides access to a wide range of games for different platforms. You can read game descriptions, view game images and get other interesting information.
 
-## Функціональність
+## Features.
 
-- **Перегляд ігор:** Переглядайте список доступних ігор та дізнавайтеся про їх опис, розробників, платформи та видавців.
-- **Детальна інформація:** Отримуйте детальну інформацію про окремі ігри, включаючи опис, платформи та інше.
-- **Перегляд знімків екрану:** Дивіться знімки екрану з ігор, щоб отримати краще уявлення про їх графіку та геймплей.
+- Browse games:** View a list of available games and learn about their descriptions, developers, platforms and publishers.
+- Details:** Get detailed information about individual games, including descriptions, platforms and more.
+- View Screenshots:** View screenshots from games to get a better idea of their graphics and gameplay.
 
-## Використані технології
+## Technologies used
 
-- React.js: для розробки фронтенду
-- Redux Toolkit: для управління станом даних
-- Styled Components: для стилізації компонентів
-- React Router: для навігації по сторінкам
+- React.js: for front-end development
+- Redux Toolkit: for managing the state of data
+- Styled Components: for styling components
+- React Router: for page navigation
 
-## Інструкції по запуску
+## Launch instructions
 
-1. Клонуйте репозиторій: `git clone https://github.com/M0sesz/games-4-you.git`
-2. Перейдіть до папки проекту: `cd games-4-you`
-3. Встановіть залежності: `npm install`
-4. Запустіть проект: `npm start`
+1. Clone the repository: `git clone https://github.com/M0sesz/games-4-you.git`.
+2. Change to the project folder: `cd games-4-you`.
+3. Install the dependencies: `npm install`.
+4. Run the project: `npm run dev`.
 
-## Демо
+## Demo
 
-Демо сайту доступне за посиланням: [Games-4-You](https://m0sesz.github.io/games-4-you/)
+The demo site is available here: [Games-4-You](https://m0sesz.github.io/games-4-you/)
 
-## Внесення вкладу
+## Contributing
 
-Якщо ви хочете внести вклад у розвиток цього проекту, будь ласка, створіть новий Pull Request або відкрийте нове питання (Issue).
+If you would like to contribute to the development of this project, please create a new Pull Request or open a new Issue.
 
-## Автор
+## Author.
 
-[Anton Honcharuk](https://m0sesz.github.io/Resume/)
-
-## Ліцензія
-
-Цей проект ліцензується під [MIT License](LICENSE).
-
+[Anton Honcharuk](ht
