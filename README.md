@@ -36,4 +36,4 @@ If you would like to contribute to the development of this project, please creat
 
 ## Author.
 
-[Anton Honcharuk](ht
+[Anton Honcharuk](https://m0sesz.github.io/Resume/)
